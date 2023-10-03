@@ -2701,7 +2701,6 @@ figure {
   background-position: 50% 100%;
   background-repeat: no-repeat;
   background-size: 2560px 802px;
-  padding-top: 184px;
   padding-bottom: 96px;
   overflow: visible;
 }
@@ -10217,7 +10216,6 @@ a {
     background-position: 50% 100%;
     background-repeat: no-repeat;
     background-size: 2560px 802px;
-    padding-top: 104px;
     padding-bottom: 0;
   }
   .section.wcards-upto {
